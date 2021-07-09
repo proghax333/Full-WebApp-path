@@ -77,7 +77,7 @@
 63. Map execution path through application - https://www.youtube.com/watch?v=0I0NPiyo9UI
 64. Fingerprint web application frameworks - https://www.youtube.com/watch?v=ASzG0kBoE4c
 
-## [Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities](./Phase%205.md)
+## Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
 
 65. A closer look at all owasp top 10 vulnerabilities - https://www.youtube.com/watch?v=avFR_Af0KGk
 66. Injection - https://www.youtube.com/watch?v=02mLrFVzIYU&index=1&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
@@ -92,7 +92,9 @@ https://www.youtube.com/watch?v=iX49fqZ8HGA&index=2&list=PLoyY7ZjHtUUVLs2fy-ctzZ
 74. Using components with known vulnerabilities -
 https://www.youtube.com/watch?v=bhJmVBJ-F-4&index=9&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
 75. Unvalidated redirects and forwards - https://www.youtube.com/watch?v=L6bYKiLtSL8&index=10&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
-F5 CENTRAL
+
+### F5 CENTRAL
+
 76. Injection - https://www.youtube.com/watch?v=rWHvp7rUka8&index=1&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 77. Broken authentication and session management -
 https://www.youtube.com/watch?v=mruO75ONWy8&index=2&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
@@ -104,7 +106,9 @@ https://www.youtube.com/watch?v=mruO75ONWy8&index=2&list=PLyqga7AXMtPPuibxp1N0Td
 https://www.youtube.com/watch?v=IGsNYVDKRV0&index=9&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 84. Cross-site scripting - https://www.youtube.com/watch?v=IuzU4y-UjLw&index=7&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 85. Security misconfiguration - https://www.youtube.com/watch?v=JuGSUMtKTPU&index=6&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
-LUKE BRINER
+
+### LUKE BRINER
+
 86. Injection explained - https://www.youtube.com/watch?v=1qMggPJpRXM&index=1&list=PLpNYlUeSK_rkrrBox-xvSkm5lgaDqKa0X
 87. Broken authentication and session management -
 https://www.youtube.com/watch?v=fKnG15BL4AY&list=PLpNYlUeSK_rkrrBox-xvSkm5lgaDqKa0X&index=2
@@ -175,19 +179,22 @@ website sends your username and password over the email in cleartext without sen
 140. Bypassing login panel -case 1 - https://www.youtube.com/watch?v=TSqXkkOt6oM
 141. Bypass login panel - case 2 - https://www.youtube.com/watch?v=J6v_W-LFK1c
 
-
-## [Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)](./Phase%209.md)
+## Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
 
 ### Completely unprotected functionalities
 
 142. Finding admin panel - https://www.youtube.com/watch?v=r1k2lgvK3s0
 143. Finding admin panel and hidden files and directories - https://www.youtube.com/watch?v=Z0VAPbATy1A
 144. Finding hidden webpages with dirbusater - https://www.youtube.com/watch?v=--nu9Jq07gA&t=5s
-Insecure direct object reference
+
+### Insecure direct object reference
+
 145. IDOR case 1 - https://www.youtube.com/watch?v=gci4R9Vkulc
 146. IDOR case 2 - https://www.youtube.com/watch?v=4DTULwuLFS0
 147. IDOR case 3 (zomato) - https://www.youtube.com/watch?v=tCJBLG5Mayo
-Privilege escalation
+
+### Privilege escalation
+
 148. What is privilege escalation - https://www.youtube.com/watch?v=80RzLSrczmc
 149. Privilege escalation - Hackme bank - case 1 - https://www.youtube.com/watch?v=g3lv__87cWM
 150. Privilege escalation - case 2 - https://www.youtube.com/watch?v=-i4O_hjc87Y

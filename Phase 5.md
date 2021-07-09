@@ -14,7 +14,9 @@ https://www.youtube.com/watch?v=iX49fqZ8HGA&index=2&list=PLoyY7ZjHtUUVLs2fy-ctzZ
 74. Using components with known vulnerabilities -
 https://www.youtube.com/watch?v=bhJmVBJ-F-4&index=9&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
 75. Unvalidated redirects and forwards - https://www.youtube.com/watch?v=L6bYKiLtSL8&index=10&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
-F5 CENTRAL
+
+### F5 CENTRAL
+
 76. Injection - https://www.youtube.com/watch?v=rWHvp7rUka8&index=1&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 77. Broken authentication and session management -
 https://www.youtube.com/watch?v=mruO75ONWy8&index=2&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
@@ -26,7 +28,9 @@ https://www.youtube.com/watch?v=mruO75ONWy8&index=2&list=PLyqga7AXMtPPuibxp1N0Td
 https://www.youtube.com/watch?v=IGsNYVDKRV0&index=9&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 84. Cross-site scripting - https://www.youtube.com/watch?v=IuzU4y-UjLw&index=7&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 85. Security misconfiguration - https://www.youtube.com/watch?v=JuGSUMtKTPU&index=6&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
-LUKE BRINER
+
+### LUKE BRINER
+
 86. Injection explained - https://www.youtube.com/watch?v=1qMggPJpRXM&index=1&list=PLpNYlUeSK_rkrrBox-xvSkm5lgaDqKa0X
 87. Broken authentication and session management -
 https://www.youtube.com/watch?v=fKnG15BL4AY&list=PLpNYlUeSK_rkrrBox-xvSkm5lgaDqKa0X&index=2
