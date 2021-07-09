@@ -32,7 +32,7 @@
 24. Base64 encoding - https://www.youtube.com/watch?v=8qkxeZmKmOY
 25. Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
 
-## [Phase 3 – Setting up the lab with BurpSuite and bWAPP](./Phase%203.md)
+## Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 26. Setup lab with bWAPP - https://www.youtube.com/watch?v=dwtUn3giwTk&index=1&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV
 27. Set up Burp Suite - https://www.youtube.com/watch?v=hQsT4rSa_v0&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=2
@@ -46,7 +46,9 @@
 35. Intruder attack types - https://www.youtube.com/watch?v=N5ndYPwddkQ&index=10&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV
 36. Payload settings - https://www.youtube.com/watch?v=5GpdlbtL-1Q&index=11&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV
 37. Intruder settings - https://www.youtube.com/watch?v=B_Mu7jmOYnU&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=12
-ÆTHER SECURITY LAB
+
+### ÆTHER SECURITY LAB
+
 38. No.1 Penetration testing tool - https://www.youtube.com/watch?v=AVzC7ETqpDo&list=PLq9n8iqQJFDrwFe9AEDBlR1uSHEN7egQA&index=1
 39. Environment Setup - https://www.youtube.com/watch?v=yqnUOdr0eVk&index=2&list=PLq9n8iqQJFDrwFe9AEDBlR1uSHEN7egQA
 40. General concept - https://www.youtube.com/watch?v=udl4oqr_ylM&list=PLq9n8iqQJFDrwFe9AEDBlR1uSHEN7egQA&index=3
